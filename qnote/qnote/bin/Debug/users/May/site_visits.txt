@@ -1,0 +1,7 @@
+﻿яна|unfav|not
+янА|fav|not
+яНА|unfav|not
+Яна|unfav|not
+Мама|unfav|not
+МАМА|unfav|not
+мама|unfav|not

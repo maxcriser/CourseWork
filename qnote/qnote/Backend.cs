@@ -14,7 +14,7 @@ namespace qnote
 
         public static void writeToFile(List<Note> list, String username, String typePath)
         {
-            String curPath = @"D:\qnote\users\" + @username + typePath;
+            String curPath = @"users\" + @username + typePath;
             System.IO.StreamWriter writer = new System.IO.StreamWriter(curPath, false, Encoding.UTF8);
             foreach (Note w in list)
             {
@@ -51,7 +51,7 @@ namespace qnote
 
         public static void createFolder(String username, String[] notesList)
         {
-            String path = @"D:\qnote\users\";
+            String path = @"users\";
             String pathFolder = path + @username;
             Directory.CreateDirectory(pathFolder);
             for (int i = 0; i < notesList.Length; i++)
@@ -81,7 +81,7 @@ namespace qnote
         public static List<Note> notesFilling(String path, String username)
         {
             notes = new List<Note>();
-            String curPath = @"D:\qnote\users\" + @username + path;
+            String curPath = @"users\" + @username + path;
             StreamReader stream = new StreamReader(curPath, Encoding.GetEncoding(1251));
             while (!stream.EndOfStream)
             {

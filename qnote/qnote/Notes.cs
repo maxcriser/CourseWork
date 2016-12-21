@@ -26,14 +26,14 @@ namespace qnote
         private Color colorBackPurpleShadow = Color.FromArgb(150, 87, 29, 70);
         private Color colorBackPurpleCellEnter = Color.FromArgb(255, 195, 154, 188);
 
-        private Image sendEnter = Image.FromFile(@"D:\qnote\img\send_enter.png");
-        private Image sendLeave = Image.FromFile(@"D:\qnote\img\send_leave.png");
-        private Image allSmiley = Image.FromFile(@"D:\qnote\img\sad_all.png");
-        private Image booksSmiley = Image.FromFile(@"D:\qnote\img\sad_books.png");
-        private Image travelsSmiley = Image.FromFile(@"D:\qnote\img\sad_travels.png");
-        private Image moviesSmiley = Image.FromFile(@"D:\qnote\img\sad_movies.png");
-        private Image everydaySmiley = Image.FromFile(@"D:\qnote\img\sad_everyday.png");
-        private Image workloadsSmiley = Image.FromFile(@"D:\qnote\img\sad_workloads.png");
+        private Image sendEnter = Image.FromFile(@"img\send_enter.png");
+        private Image sendLeave = Image.FromFile(@"img\send_leave.png");
+        private Image allSmiley = Image.FromFile(@"img\sad_all.png");
+        private Image booksSmiley = Image.FromFile(@"img\sad_books.png");
+        private Image travelsSmiley = Image.FromFile(@"img\sad_travels.png");
+        private Image moviesSmiley = Image.FromFile(@"img\sad_movies.png");
+        private Image everydaySmiley = Image.FromFile(@"img\sad_everyday.png");
+        private Image workloadsSmiley = Image.FromFile(@"img\sad_workloads.png");
 
 
         public Notes(String typePath, String typeName, String username, String password)

@@ -20,10 +20,10 @@ namespace qnote
         List<User> profiles = new List<User>();
         List<User> statusProfile = new List<User>();
 
-        Image btnOkLeave = Image.FromFile(@"D:\qnote\img\btn_ok_leave.png");
-        Image btnOkEnter = Image.FromFile(@"D:\qnote\img\btn_ok_enter.png");
-        Image btnSignInLeave = Image.FromFile(@"D:\qnote\img\btn_signin_leave.png");
-        Image btnSignInEnter = Image.FromFile(@"D:\qnote\img\btn_signin_enter.png");
+        Image btnOkLeave = Image.FromFile(@"img\btn_ok_leave.png");
+        Image btnOkEnter = Image.FromFile(@"img\btn_ok_enter.png");
+        Image btnSignInLeave = Image.FromFile(@"img\btn_signin_leave.png");
+        Image btnSignInEnter = Image.FromFile(@"img\btn_signin_enter.png");
 
         String[] notesList = {
             Constants.ALL,

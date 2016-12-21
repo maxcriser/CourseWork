@@ -14,21 +14,21 @@ namespace qnote
     {
         private String userName;
         private String password;
-        private Image leaveALL = Image.FromFile(@"D:\qnote\img\btn_any_notes_leave.png");
-        private Image leaveWORK = Image.FromFile(@"D:\qnote\img\btn_workloads_leave.png");
-        private Image leaveEveryDay = Image.FromFile(@"D:\qnote\img\btn_every_day_leave.png");
-        private Image leaveBooks = Image.FromFile(@"D:\qnote\img\btn_books_leave.png");
-        private Image leaveMovies = Image.FromFile(@"D:\qnote\img\btn_movies_leave.png");
-        private Image leaveTravels = Image.FromFile(@"D:\qnote\img\btn_travels_leave.png");
-        private Image leaveLogOut = Image.FromFile(@"D:\qnote\img\btn_log_out_leave.png");
+        private Image leaveALL = Image.FromFile(@"img\btn_any_notes_leave.png");
+        private Image leaveWORK = Image.FromFile(@"img\btn_workloads_leave.png");
+        private Image leaveEveryDay = Image.FromFile(@"img\btn_every_day_leave.png");
+        private Image leaveBooks = Image.FromFile(@"img\btn_books_leave.png");
+        private Image leaveMovies = Image.FromFile(@"img\btn_movies_leave.png");
+        private Image leaveTravels = Image.FromFile(@"img\btn_travels_leave.png");
+        private Image leaveLogOut = Image.FromFile(@"img\btn_log_out_leave.png");
 
-        private Image enterALL = Image.FromFile(@"D:\qnote\img\btn_any_notes_enter.png");
-        private Image enterWORK = Image.FromFile(@"D:\qnote\img\btn_workloads_enter.png");
-        private Image enterEveryDay = Image.FromFile(@"D:\qnote\img\btn_every_day_enter.png");
-        private Image enterBooks = Image.FromFile(@"D:\qnote\img\btn_books_enter.png");
-        private Image enterMovies = Image.FromFile(@"D:\qnote\img\btn_movies_enter.png");
-        private Image enterTravels = Image.FromFile(@"D:\qnote\img\btn_travels_enter.png");
-        private Image enterLogOut = Image.FromFile(@"D:\qnote\img\btn_log_out_enter.png");
+        private Image enterALL = Image.FromFile(@"img\btn_any_notes_enter.png");
+        private Image enterWORK = Image.FromFile(@"img\btn_workloads_enter.png");
+        private Image enterEveryDay = Image.FromFile(@"img\btn_every_day_enter.png");
+        private Image enterBooks = Image.FromFile(@"img\btn_books_enter.png");
+        private Image enterMovies = Image.FromFile(@"img\btn_movies_enter.png");
+        private Image enterTravels = Image.FromFile(@"img\btn_travels_enter.png");
+        private Image enterLogOut = Image.FromFile(@"img\btn_log_out_enter.png");
         public static List<List<String>> notesWorkloads;
 
         public MainActivity(String userName, String password)

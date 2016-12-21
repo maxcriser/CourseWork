@@ -14,10 +14,10 @@ namespace qnote
     public partial class SignIn : Form
     {
 
-        Image btnSignUpLeave = Image.FromFile(@"D:\qnote\img\btn_signup_leave.png");
-        Image btnSignUpEnter = Image.FromFile(@"D:\qnote\img\btn_signup_enter.png");
-        Image btnOkLeave = Image.FromFile(@"D:\qnote\img\btn_ok_leave.png");
-        Image btnOkEnter = Image.FromFile(@"D:\qnote\img\btn_ok_enter.png");
+        Image btnSignUpLeave = Image.FromFile(@"img\btn_signup_leave.png");
+        Image btnSignUpEnter = Image.FromFile(@"img\btn_signup_enter.png");
+        Image btnOkLeave = Image.FromFile(@"img\btn_ok_leave.png");
+        Image btnOkEnter = Image.FromFile(@"img\btn_ok_enter.png");
 
         public SignIn()
         {

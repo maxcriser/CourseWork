@@ -1,0 +1,6 @@
+﻿выф|fav|not
+выфвф|unfav|not
+выфвф|unfav|not
+выфвфы|unfav|not
+выфвф|unfav|not
+выфвфвыф|unfav|not
