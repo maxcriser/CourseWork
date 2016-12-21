@@ -1,0 +1,24 @@
+D:\GitHub Projects\CSharp\qnote\qnote\bin\Debug\qnote.exe.config
+D:\GitHub Projects\CSharp\qnote\qnote\obj\Debug\qnote.exe
+D:\GitHub Projects\CSharp\qnote\qnote\obj\Debug\qnote.pdb
+D:\GitHub Projects\CSharp\qnote\qnote\bin\Debug\qnote.exe
+D:\GitHub Projects\CSharp\qnote\qnote\bin\Debug\qnote.pdb
+D:\GitHub Projects\CSharp\qnote\qnote\obj\Debug\qnote.csprojResolveAssemblyReference.cache
+D:\GitHub Projects\CSharp\qnote\qnote\obj\Debug\qnote.Notes.resources
+D:\GitHub Projects\CSharp\qnote\qnote\obj\Debug\qnote.SignIn.resources
+D:\GitHub Projects\CSharp\qnote\qnote\obj\Debug\qnote.SignUp.resources
+D:\GitHub Projects\CSharp\qnote\qnote\obj\Debug\qnote.MainActivity.resources
+D:\GitHub Projects\CSharp\qnote\qnote\obj\Debug\qnote.Properties.Resources.resources
+D:\GitHub Projects\CSharp\qnote\qnote\obj\Debug\qnote.csproj.GenerateResource.Cache
+D:\GitHub_Projects\CSharp\qnote\qnote\bin\Debug\qnote.exe.config
+D:\GitHub_Projects\CSharp\qnote\qnote\obj\Debug\qnote.exe
+D:\GitHub_Projects\CSharp\qnote\qnote\obj\Debug\qnote.pdb
+D:\GitHub_Projects\CSharp\qnote\qnote\bin\Debug\qnote.exe
+D:\GitHub_Projects\CSharp\qnote\qnote\bin\Debug\qnote.pdb
+D:\GitHub_Projects\CSharp\qnote\qnote\obj\Debug\qnote.csprojResolveAssemblyReference.cache
+D:\GitHub_Projects\CSharp\qnote\qnote\obj\Debug\qnote.Notes.resources
+D:\GitHub_Projects\CSharp\qnote\qnote\obj\Debug\qnote.SignIn.resources
+D:\GitHub_Projects\CSharp\qnote\qnote\obj\Debug\qnote.SignUp.resources
+D:\GitHub_Projects\CSharp\qnote\qnote\obj\Debug\qnote.MainActivity.resources
+D:\GitHub_Projects\CSharp\qnote\qnote\obj\Debug\qnote.Properties.Resources.resources
+D:\GitHub_Projects\CSharp\qnote\qnote\obj\Debug\qnote.csproj.GenerateResource.Cache
